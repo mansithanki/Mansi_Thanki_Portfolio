@@ -73,6 +73,21 @@ p {
 .brand h1 span {
 	color: crimson;
 }
+.projbutton {
+  background-color: #007bff; /* Button background color */
+  color: #fff; /* Text color */
+  padding: 10px 20px; /* Adjust the padding as needed */
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px; /* Adjust the margin as needed */
+}
+
+.projbutton:hover {
+  background-color: #0056b3; /* Change color on hover */
+}
+
 
 /* Header section */
 #header {
